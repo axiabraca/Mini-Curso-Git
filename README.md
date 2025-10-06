@@ -4,11 +4,3 @@ Repo para mini curso de git mestrado dia 06/10/2025 na Semana de Tecnologia da F
 
 Instrutores: Amanda Vilela, Felipe Bernardo
 
-#### Comandos 
-- git clone;
-- git status;
-- git add; 
-- git commit -m "este commit...";
-- git log;
-
-
